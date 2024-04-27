@@ -43,7 +43,7 @@ public class Stock_Admin {
         ArrayList<Car> result = new ArrayList<>();
         for (Car car : this.VehiclesInStock) {
             if (car.getManufacture().equals(manufacture)){
-                result
+                
             }
         }
 
